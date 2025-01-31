@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Notes by SMhd'
-theme = 'ananke'
+theme = 'hugo-theme-stack'
