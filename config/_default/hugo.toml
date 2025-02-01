@@ -1,0 +1,15 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Notes by SMhd'
+theme = 'hugo-theme-stack'
+
+defaultContentLanguage = 'fa'
+[languages]
+  [languages.fa]
+    languageName = 'فارسی'
+    languageCode = 'fa-IR'
+    languageDirection = 'rtl'
+    weight = 1
+  [languages.en]
+    languageName = 'English'
+    weight = 2

@@ -1,0 +1,8 @@
+[[main]]
+  name = 'پست‌ها'
+  pageRef = '/posts'
+  weight = 1
+[[main]]
+  name = 'دربارهٔ من'
+  pageRef = '/about_me'
+  weight = 2
