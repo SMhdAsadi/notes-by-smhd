@@ -1,6 +1,5 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Notes by SMhd'
+languageCode = 'fa-IR'
 theme = 'hugo-theme-stack'
 
 defaultContentLanguage = 'fa'
@@ -13,3 +12,10 @@ defaultContentLanguage = 'fa'
   [languages.en]
     languageName = 'English'
     weight = 2
+
+[params]
+  mainSections = 'posts'
+  [params.sidebar]
+    emoji = '⏳'
+    [params.sidebar.avatar]
+      src = 'notes-by-smhd.png'
