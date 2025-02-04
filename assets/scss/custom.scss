@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'iransansxv';
+    src: url('/fonts/iransansxv.woff') format('woff-variations'),
+    /* will be the standard and works in Safari now */
+    url('/fonts/iransansxv.woff') format('woff');
+    /* for the other supporting browsers */
+    font-weight: 100 1000;
+    font-display: fallback;
+}
+@font-face {
+    font-family: iransansx;
+    src: url('/fonts/iransansx-regular.woff') format('woff');
+}
+@font-face {
+    font-family: iransansx;
+    src: url('/fonts/iransansx-bold.woff') format('woff');
+    font-weight: 700;
+}
+
+:root {
+    font-variation-settings: "wght" 500, "DOTS" 7;
+    --base-font-family: iransansx, -apple-system, BlinkMacSystemFont, "Segoe UI", "Droid Sans", "Helvetica Neue";
+}
+
+@supports (font-variation-settings: normal) {
+    :root {
+        --base-font-family: 'iransansxv', -apple-system, BlinkMacSystemFont, "Segoe UI", "Droid Sans", "Helvetica Neue";
+    }
+}
