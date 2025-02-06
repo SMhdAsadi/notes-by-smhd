@@ -1,11 +1,11 @@
 {
-  "name": "notes-by-smhd",
-  "type": "module",
-  "scripts": {
-    "start": "hugo server --buildDrafts --cleanDestinationDir",
-    "hugo": "hugo",
-    "hugo:build": "hugo --minify"
-  },
-  "devDependencies": {},
-  "peerDependencies": {}
+	"name": "notes-by-smhd",
+	"type": "module",
+	"scripts": {
+		"start": "hugo server --buildDrafts --cleanDestinationDir",
+		"hugo": "hugo",
+		"hugo:build": "hugo --minify"
+	},
+	"devDependencies": {},
+	"peerDependencies": {}
 }
