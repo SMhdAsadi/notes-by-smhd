@@ -1,0 +1,5 @@
+mainSections = 'posts'
+[sidebar]
+  emoji = '⏳'
+  [sidebar.avatar]
+    src = 'notes-by-smhd.png'

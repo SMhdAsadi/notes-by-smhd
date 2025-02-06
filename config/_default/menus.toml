@@ -1,8 +1,14 @@
 [[main]]
-  name = 'پست‌ها'
+  name = 'همهٔ پست‌ها'
+  identifier = 'posts'
   pageRef = '/posts'
   weight = 1
+  [[main.params]]
+    icon = 'home'
 [[main]]
   name = 'دربارهٔ من'
+  identifier = 'about_me'
   pageRef = '/about_me'
   weight = 2
+  [[main.params]]
+    icon = 'user'
