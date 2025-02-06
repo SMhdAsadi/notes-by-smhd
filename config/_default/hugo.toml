@@ -1,6 +1,7 @@
 baseURL = 'https://notesbysmhd.ir/'
 languageCode = 'fa-IR'
 theme = 'hugo-theme-stack'
+title = 'اس‌ام‌اچ‌دی می‌نویسد'
 
 defaultContentLanguage = 'fa'
 [languages]
@@ -9,8 +10,15 @@ defaultContentLanguage = 'fa'
     languageCode = 'fa-IR'
     languageDirection = 'rtl'
     weight = 1
-  [languages.en]
-    languageName = 'English'
+
+[menus]
+  [[main]]
+    name = 'پست‌ها'
+    pageRef = '/posts'
+    weight = 1
+  [[main]]
+    name = 'دربارهٔ من'
+    pageRef = '/about_me'
     weight = 2
 
 [params]

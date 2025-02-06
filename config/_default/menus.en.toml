@@ -1,8 +1,0 @@
-[[main]]
-  name = 'Posts'
-  pageRef = '/posts'
-  weight = 1
-[[main]]
-  name = 'About me'
-  pageRef = '/about_me'
-  weight = 2
