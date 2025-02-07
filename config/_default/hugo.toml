@@ -10,3 +10,8 @@ defaultContentLanguage = 'fa'
     languageCode = 'fa-IR'
     languageDirection = 'rtl'
     weight = 1
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    startLevel = 1
