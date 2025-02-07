@@ -10,6 +10,8 @@ mainSections = ['posts']
     type = 'toc'
   [[widgets.homepage]]
     [[widgets.homepage]]
+        type = 'search'
+    [[widgets.homepage]]
       type = 'archives'
     [[widgets.homepage]]
       type = 'categories'
