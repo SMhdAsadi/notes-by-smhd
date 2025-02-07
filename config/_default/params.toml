@@ -1,5 +1,10 @@
-mainSections = 'posts'
+mainSections = ['posts']
 [sidebar]
   emoji = '⏳'
   [sidebar.avatar]
     src = 'notes-by-smhd.png'
+[article]
+  toc = true
+[widgets]
+  [[widgets.page]]
+    type = 'toc'
