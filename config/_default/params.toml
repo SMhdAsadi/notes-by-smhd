@@ -5,6 +5,24 @@ mainSections = ['posts']
     src = 'notes-by-smhd.png'
 [article]
   toc = true
+[comments]
+  enabled = true
+  provider = 'giscus'
+  [comments.giscus]
+    repo = 'SMhdAsadi/notes-by-smhd'
+    repoID = 'R_kgDONyTXYg'
+    category = 'Announcements'
+    categoryID = 'DIC_kwDONyTXYs4Cmvcj'
+    mapping = 'pathname'
+    strict = 0
+    lightTheme = 'preferred_color_scheme'
+    darkTheme = 'preferred_color_scheme'
+    reactionsEnabled = 1
+    emitMetadata = 0
+    inputPosition = 'top'
+    lang = 'fa'
+    crossOrigin = 'anonymous'
+    async = true
 [widgets]
   [[widgets.page]]
     type = 'toc'
