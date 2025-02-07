@@ -8,3 +8,14 @@ mainSections = ['posts']
 [widgets]
   [[widgets.page]]
     type = 'toc'
+  [[widgets.homepage]]
+    [[widgets.homepage]]
+      type = 'categories'
+      [widgets.homepage.params]
+        limit = 10
+    [[widgets.homepage]]
+      type = 'tag-cloud'
+      [widgets.homepage.params]
+        limit = 10
+[footer]
+  since = 2025
