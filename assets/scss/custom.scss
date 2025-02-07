@@ -32,3 +32,10 @@
 #main-menu li.menu-bottom-section ol {
     padding-inline: 0;
 }
+
+// This resets the float property to make related content scrollable
+.related-content {
+    & > .flex {
+        float: none;
+    }
+}
