@@ -1,15 +1,29 @@
 [[main]]
-  name = 'همهٔ پست‌ها'
-  identifier = 'posts'
-  pageRef = '/posts'
+  name = 'خانه'
+  identifier = 'home'
+  pageRef = '/'
   weight = 1
   [[main.params]]
     icon = 'home'
 [[main]]
+  name = 'جستجو'
+  identifier = 'search'
+  pageRef = '/search'
+  weight = 2
+  [[main.params]]
+    icon = 'search'
+[[main]]
+  name = 'آرشیو'
+  identifier = 'archives'
+  pageRef = '/archives'
+  weight = 3
+  [[main.params]]
+    icon = 'archives'
+[[main]]
   name = 'دربارهٔ من'
   identifier = 'about_me'
   pageRef = '/about_me'
-  weight = 2
+  weight = 4
   [[main.params]]
     icon = 'user'
 
