@@ -12,3 +12,25 @@
   weight = 2
   [[main.params]]
     icon = 'user'
+
+[[social]]
+  identifier = "telegram"
+  name = "Telegram"
+  url = "https://t.me/SMhdAsadi"
+  weight = 1
+  [social.params]
+    icon = "brand-telegram"
+[[social]]
+  identifier = "x"
+  name = "X"
+  url = "https://x.com/SMhdAsadi"
+  weight = 2
+  [social.params]
+    icon = "brand-x"
+[[social]]
+  identifier = "github"
+  name = "GitHub"
+  url = "https://github.com/SMhdAsadi/"
+  weight = 3
+  [social.params]
+    icon = "brand-github"
