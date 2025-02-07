@@ -15,3 +15,7 @@ defaultContentLanguage = 'fa'
   [markup.tableOfContents]
     endLevel = 3
     startLevel = 1
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-Y85TL9NNSB'
