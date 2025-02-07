@@ -1,10 +1,19 @@
 mainSections = ['posts']
+
 [sidebar]
   emoji = '⏳'
+  subtitle = 'اندر خم مینیمالیسم، بهره‌وری و کد'
   [sidebar.avatar]
     src = 'notes-by-smhd.png'
+
 [article]
   toc = true
+
+[opengraph]
+  [opengraph.twitter]
+    site = 'SMhdAsadi'
+    card = 'summary_large_image'
+
 [comments]
   enabled = true
   provider = 'giscus'
@@ -23,6 +32,7 @@ mainSections = ['posts']
     lang = 'fa'
     crossOrigin = 'anonymous'
     async = true
+
 [widgets]
   [[widgets.page]]
     type = 'toc'
@@ -39,5 +49,6 @@ mainSections = ['posts']
       type = 'tag-cloud'
       [widgets.homepage.params]
         limit = 10
+
 [footer]
   since = 2025
