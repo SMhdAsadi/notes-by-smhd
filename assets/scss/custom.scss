@@ -27,3 +27,8 @@
         --base-font-family: 'iransansxv', -apple-system, BlinkMacSystemFont, "Segoe UI", "Droid Sans", "Helvetica Neue";
     }
 }
+
+// This fixes the extra start padding for toggle theme item
+#main-menu li.menu-bottom-section ol {
+    padding-inline: 0;
+}
