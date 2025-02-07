@@ -2,6 +2,7 @@ baseURL = 'https://notesbysmhd.ir/'
 languageCode = 'fa-IR'
 theme = 'hugo-theme-stack'
 title = 'یادداشت‌های اس‌ام‌اچ‌دی'
+enableRobotsTXT = true
 
 defaultContentLanguage = 'fa'
 [languages]
