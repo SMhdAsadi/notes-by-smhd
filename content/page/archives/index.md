@@ -1,5 +1,5 @@
----
-title: "آرشیو"
-slug: "archives"
-layout: "archives"
----
++++
+title = 'آرشیو'
+slug = 'archives'
+layout = 'archives'
++++
