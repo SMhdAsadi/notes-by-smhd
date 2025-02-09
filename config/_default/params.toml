@@ -2,7 +2,7 @@ mainSections = ['posts']
 
 [sidebar]
   emoji = '⏳'
-  subtitle = 'اندر خم مینیمالیسم، بهره‌وری و کد'
+  subtitle = 'یادداشت های سید محمد اسدی'
   [sidebar.avatar]
     src = 'notes-by-smhd.png'
 
