@@ -3,9 +3,9 @@ date = '2021-05-14T19:09:48+03:30'
 draft = false
 title = 'سیر تکاملی اعداد'
 description = 'سر و کله اعداد از کجا پیدا شد؟ چرا ما از اعداد به شکل امروزی استفاده می‌کنیم؟ چرا ۱۰ رقم بیشتر نداریم؟'
-keywords = ['اعداد', 'سیستم اعداد', 'خوارزمی', 'اعداد رومی', 'سیستم هندی-عربی']
 categories = ['tutorial', 'science']
-tags = ['mathematics', 'history']
+keywords = ['اعداد', 'سیستم اعداد', 'خوارزمی', 'اعداد رومی', 'سیستم هندی-عربی', 'number', 'numbers', 'numeral system', 'Khwarizmi', 'roman numerals', 'Hindu–Arabic']
+tags = ['اعداد', 'سیستم اعداد', 'خوارزمی', 'اعداد رومی', 'سیستم هندی-عربی', 'number', 'numbers', 'numeral system', 'Khwarizmi', 'roman numerals', 'Hindu–Arabic']
 image = 'numbers.webp'
 +++
 
