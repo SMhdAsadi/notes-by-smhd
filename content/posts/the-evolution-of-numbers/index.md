@@ -4,7 +4,7 @@ draft = false
 title = 'سیر تکاملی اعداد'
 description = 'سر و کله اعداد از کجا پیدا شد؟ چرا ما از اعداد به شکل امروزی استفاده می‌کنیم؟ چرا ۱۰ رقم بیشتر نداریم؟'
 keywords = ['اعداد', 'سیستم اعداد', 'خوارزمی', 'اعداد رومی', 'سیستم هندی-عربی']
-categories = ['science']
+categories = ['tutorial', 'science']
 tags = ['mathematics', 'history']
 image = 'numbers.webp'
 +++

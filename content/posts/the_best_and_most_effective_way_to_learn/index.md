@@ -4,7 +4,7 @@ draft = false
 title = 'بهترین و موثرترین روش یادگیری'
 description = 'همه تا حالا از روش اشتباهی برای درس خوندن استفاده می‌کردیم! واقعا بهترین راه برای یادگیری چیه؟'
 keywords = ['روش‌های یادگیری', 'یادگیری موثر', 'فراخوانی فعال', 'تکرار با فاصله', 'فلش‌کارت', 'انکی', 'تحقیقات یادگیری', 'بهره‌وری در یادگیری']
-categories = ['tutorial']
+categories = ['tutorial', 'personal-growth', 'science']
 tags = ['self-help', 'productivity', 'learning']
 image = 'banner.webp'
 +++

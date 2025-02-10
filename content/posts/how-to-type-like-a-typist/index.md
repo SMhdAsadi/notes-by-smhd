@@ -4,7 +4,7 @@ draft = false
 title = 'چطور مثل یک تایپیست تایپ کنیم؟'
 description = 'تایپ سریع و ده‌انگشتی برای خیلی‌ها مثل رویا می‌مونه، ولی هرکسی می‌تونه با رعایت این موارد مثل یک تایپیست حرفه‌ای تایپ کنه.'
 keywords = ['تایپ ده انگشتی', 'آموزش تایپ', 'تایپ سریع', 'مهارت تایپ', 'حافظه حرکتی', 'برنامه‌های تایپ', 'سایت‌های تایپ', 'تمرین تایپ', 'تایپ فارسی', 'تایپ انگلیسی']
-categories = ['tutorial']
+categories = ['tutorial', 'personal-growth', 'productivity']
 tags = ['fast-type', 'productivity', 'self-help']
 image = 'banner.webp'
 +++

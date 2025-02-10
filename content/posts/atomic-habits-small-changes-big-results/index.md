@@ -4,7 +4,7 @@ draft = false
 title = 'عادت‌های اتمی - تغییرات کوچک، نتایج بزرگ'
 description = 'مطالب و درس‌های مهمی که می‌توان از کتاب عادت‌های اتمی برداشت کرد'
 keywords = ['عادت‌های اتمی', 'جیمز کلیر', 'تغییرات کوچک', 'نتایج بزرگ', 'مدیریت زمان', 'بهره‌وری', 'ساختن عادت', 'کتاب‌های انگیزشی', 'توسعه فردی', 'قانون یک درصد']
-categories = ['book']
+categories = ['book', 'personal-growth', 'lifestyle', 'productivity', 'science']
 tags = ['time-management', 'productivity', 'self-help']
 image = 'atomic-habits.webp'
 +++
