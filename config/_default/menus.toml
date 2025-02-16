@@ -48,3 +48,10 @@
   weight = 3
   [social.params]
     icon = "brand-github"
+[[social]]
+  identifier = "RSS"
+  name = "RSS"
+  url = "https://notesbysmhd.ir/index.xml"
+  weight = 4
+  [social.params]
+    icon = "rss"
