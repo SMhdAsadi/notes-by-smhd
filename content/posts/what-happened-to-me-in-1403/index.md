@@ -1,6 +1,6 @@
 +++
 date = '2025-04-01T15:02:23+03:30'
-draft = true
+draft = false
 title = 'در ۱۴۰۳ بر من چه گذشت؟'
 description = 'مروری بر اتفاقات و چالش‌های مهم سال ۱۴۰۳'
 categories = []
